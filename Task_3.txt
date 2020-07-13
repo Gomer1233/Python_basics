@@ -1,0 +1,10 @@
+Ivanov 50900.9
+Petrov 15000
+Sidorov 97700.67
+Karpov 19900.99
+Kulikov 45900
+Egorov 12999.99
+Danilov 10500
+Kuznetsov 88000.9
+Kalinin 16798.87
+Malkin 20000
